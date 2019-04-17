@@ -1,0 +1,19 @@
+Optimal strategies:
+Start state: 0 excellent
+1 month. Use strategy 2 : Free delivery
+2 month. Use strategy 2 : Free delivery
+3 month. Use strategy 2 : Free delivery
+Total profit: 303.608
+
+Start state: 1 good
+1 month. Use strategy 3 : Do nothing
+2 month. Use strategy 3 : Do nothing
+3 month. Use strategy 2 : Free delivery
+Total profit: 272.976
+
+Start state: 2 average
+1 month. Use strategy 2 : Free delivery
+2 month. Use strategy 2 : Free delivery
+3 month. Use strategy 2 : Free delivery
+Total profit: 255.008
+
