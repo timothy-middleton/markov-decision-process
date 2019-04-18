@@ -1,5 +1,4 @@
-//Timothy Middleton 900382146
-//Markov Decison Process Extra Credit Project
+
 
 #include <string>
 #include <vector>
